@@ -1,0 +1,2 @@
+# This project uses only the Python standard library
+# (json, os, re, sys) — no external dependencies to install.
