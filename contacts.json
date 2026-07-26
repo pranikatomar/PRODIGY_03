@@ -1,0 +1,23 @@
+{
+    "next_id": 5,
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Aarav Sharma",
+            "phone": "9876543210",
+            "email": "aarav.sharma@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Priya Verma",
+            "phone": "9123450000",
+            "email": "priya.verma@example.com"
+        },
+        {
+            "id": 4,
+            "name": "Sneha Kapoor",
+            "phone": "9871234560",
+            "email": "sneha.kapoor@example.com"
+        }
+    ]
+}
